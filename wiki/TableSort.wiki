@@ -43,9 +43,9 @@ Your choice is: 3
 }}}
 
 === Input file ===
-  * [http://xuhu-rwm-cgp.google.com/svn/trunk/data/Ath_SFP_Scores_0846_RIL.lg1.map.loc Ath_SFP_Scores_0846_Rand.lg1_Shfl.map.loc]
-  * [http://xuhu-rwm-cgp.google.com/svn/trunk/data/example_sorted_list_2_M.txt example_sorted_list_2_M.txt]
-  * [http://xuhu-rwm-cgp.google.com/svn/trunk/data/example_sorted_list_1_R.txt example_sorted_list_1_R.txt]
+  * [http://xuhu-rwm-cgp.googlecode.com/svn/trunk/data/Ath_SFP_Scores_0846_RIL.lg1.map.loc Ath_SFP_Scores_0846_Rand.lg1_Shfl.map.loc]
+  * [http://xuhu-rwm-cgp.googlecode.com/svn/trunk/data/example_sorted_list_2_M.txt example_sorted_list_2_M.txt]
+  * [http://xuhu-rwm-cgp.googlecode.com/svn/trunk/data/example_sorted_list_1_R.txt example_sorted_list_1_R.txt]
 
 === Output file ===
-  * [http://xuhu-rwm-cgp.google.com/svn/trunk/data/Ath_SFP_Scores_0846_Sort.out Ath_SFP_Scores_0846_Sort.out]
+  * [http://xuhu-rwm-cgp.googlecode.com/svn/trunk/data/Ath_SFP_Scores_0846_Sort.out Ath_SFP_Scores_0846_Sort.out]
